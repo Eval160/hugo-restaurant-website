@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://example.org/"
+baseURL = "https://fervent-jennings-e4687e.netlify.app"
 languageCode = "en-us"
 title = "Restaurant Hugo"
 theme = "restaurant-hugo"
@@ -132,7 +132,7 @@ image = "images/slider/slider-img-1.jpg"
 [[params.footer.gallery]]
 image = "images/slider/slider-img-2.jpg"
 
-######################## Social Icon 
+######################## Social Icon
 [[params.footer.socialLink]]
 icon = "facebook"
 link = "https://fb.com/themefisher"

@@ -6,7 +6,7 @@ theme = "restaurant-hugo"
 title = "Restaurant Hugo"
 [[menu.main]]
 URL = "contact-us"
-name = "Contact Us"
+name = "Nous contacter"
 weight = 6
 [[menu.main]]
 URL = "subscribe"
@@ -14,19 +14,19 @@ name = "News"
 weight = 5
 [[menu.main]]
 URL = "price"
-name = "Price"
+name = "Nos menus"
 weight = 4
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Notre actualité"
 weight = 3
 [[menu.main]]
 URL = "about-us"
-name = "About Us"
+name = "A propos"
 weight = 2
 [[menu.main]]
 URL = "hero-area"
-name = "Home"
+name = "Accueil"
 weight = 1
 [params]
 author = "Themefisher"

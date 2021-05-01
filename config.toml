@@ -23,11 +23,11 @@ weight = 3
 [[menu.main]]
 URL = "about-us"
 name = "About Us"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "hero-area"
 name = "Home"
-weight = 2
+weight = 1
 [params]
 author = "Themefisher"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
